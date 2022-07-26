@@ -4,7 +4,7 @@ import java.util.List;
 
 import org.junit.Test;
 
-import br.com.pedro.modelos.veiculos.Veiculo.TipoVeiculo;
+import br.com.pedro.enums.TipoVeiculo;
 
 public class TipoVeiculoTeste {
     

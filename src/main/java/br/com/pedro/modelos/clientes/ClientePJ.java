@@ -1,10 +1,7 @@
 package br.com.pedro.modelos.clientes;
 
 public class ClientePJ extends Cliente {
-    private String cnpj;
-
-    public ClientePJ(String nome, int id, String cnpj) {
+    public ClientePJ(String nome, int id) {
         super(nome, id);
-        this.cnpj = cnpj;
     }
 }
